@@ -1,0 +1,3 @@
+D:\EpicGames\UeProjects\TeamUp41\Intermediate\Build\Win64\UE4Editor\Development\TeamUp41\Definitions.TeamUp41.h
+D:\EpicGames\UeProjects\TeamUp41\Source\TeamUp41\CharacterInputComponent.h
+D:\EpicGames\UeProjects\TeamUp41\Intermediate\Build\Win64\UE4Editor\Inc\TeamUp41\CharacterInputComponent.generated.h

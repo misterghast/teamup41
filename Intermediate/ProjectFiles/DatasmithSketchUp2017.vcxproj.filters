@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2017.Target.cs" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2017.Build.cs" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2018.Build.cs" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2019.Build.cs" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2020.Build.cs" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUpExporter.def" />
+    <Filter Include="Installer">
+      <UniqueIdentifier>{55A8A22A-9821-40EA-948B-32BCBD758640}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomActions.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomExitDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomInstallDirDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomLicenseAgreementDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomWelcomeDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomWixUI_InstallDir.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\GenericUiBrandDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Installer.wixproj">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\SketchUpExporter.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <Filter Include="Installer\Localization">
+      <UniqueIdentifier>{D02F9E63-6EC2-4413-AAF2-0A69E085BB09}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Localization\en-us.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <Filter Include="Installer\Resources">
+      <UniqueIdentifier>{F645C2AE-1BE8-4CDE-B3C6-EB1267B0AC2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\default_small_banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Dialog.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Epic_Games_logo.png">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Exporter Plugin End User License Agreement.docx">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Exporter Plugin End User License Agreement.rtf">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Microsoft_VC140_CRT_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Microsoft_VC140_OpenMP_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\UnrealEngine.ico">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images">
+      <UniqueIdentifier>{E54D0A9A-4298-495C-8F66-550B66ACD402}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
+      <Filter>Installer\Resources\Images</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\Background">
+      <UniqueIdentifier>{034CC1B2-DB89-489C-926C-D166E5D1C2F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\28190.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\28402.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\28674.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\30668.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\30725.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\General">
+      <UniqueIdentifier>{D51D627D-9254-4D41-AE05-2A41D46E2D1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\General\banner.bmp">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\General\unreal-logo.jpg">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <Filter Include="Private">
+      <UniqueIdentifier>{7639E022-42CC-41A2-B127-83ABACAB6EE6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpAFXDialogs.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpCamera.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpCamera.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpComponent.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpComponent.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpDialogs.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpDialogs.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpExporter.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpExporter.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpExporterDLL.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpExporterDLL.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpExporterInterface.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpExporterInterface.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpMaterial.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpMaterial.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpMesh.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpMesh.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpMetadata.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpMetadata.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpOptions.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpOptions.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpSDKBegins.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpSDKCeases.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpString.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpString.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpSummary.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpSummary.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{3CC7D07D-8E18-4875-A518-C065DCE02450}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{50715389-6592-4BE3-802B-225C78ED3E53}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Resources\Windows\resource.h">
+      <Filter>Resources\Windows</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

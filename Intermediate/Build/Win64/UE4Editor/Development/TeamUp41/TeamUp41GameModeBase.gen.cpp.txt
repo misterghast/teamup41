@@ -1,0 +1,9 @@
+D:\EpicGames\UeProjects\TeamUp41\Intermediate\Build\Win64\UE4Editor\Development\TeamUp41\Definitions.TeamUp41.h
+D:\ue4\ue4\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\ue4\ue4\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\EpicGames\UeProjects\TeamUp41\Source\TeamUp41/TeamUp41GameModeBase.h
+D:\ue4\ue4\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\ue4\ue4\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\ue4\ue4\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\ue4\ue4\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\EpicGames\UeProjects\TeamUp41\Intermediate\Build\Win64\UE4Editor\Inc\TeamUp41\TeamUp41GameModeBase.generated.h

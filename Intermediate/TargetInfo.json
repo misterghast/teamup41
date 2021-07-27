@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TeamUp41",
+			"Path": "D:\\EpicGames\\UeProjects\\TeamUp41\\Source\\TeamUp41.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TeamUp41Editor",
+			"Path": "D:\\EpicGames\\UeProjects\\TeamUp41\\Source\\TeamUp41Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

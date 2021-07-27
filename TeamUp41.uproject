@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{75CC0769-4424-52FD-0198-CC93428D287F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TeamUp41",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\EpicGames\\UeProjects\\TeamUp41\\Source\\TeamUp41\\TeamUp41.Build.cs",
+		"D:\\EpicGames\\UeProjects\\TeamUp41\\Source\\TeamUp41.Target.cs",
+		"D:\\EpicGames\\UeProjects\\TeamUp41\\Source\\TeamUp41Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TeamUp41.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1E23E5DF-52AD-4446-A76B-AAA39806E9B2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TeamUp41.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TeamUp41Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E5AEF7EF-89FD-406B-A85E-34680C2AF083}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TeamUp41">
+      <UniqueIdentifier>{5F98CC2D-0FBD-42DE-8DCC-AE5D861229E3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TeamUp41\CharacterInputComponent.cpp">
+      <Filter>Source\TeamUp41</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TeamUp41\CharacterInputComponent.h">
+      <Filter>Source\TeamUp41</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TeamUp41\DefaultCharacter.cpp">
+      <Filter>Source\TeamUp41</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TeamUp41\DefaultCharacter.h">
+      <Filter>Source\TeamUp41</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TeamUp41\GenericMovementComponent.cpp">
+      <Filter>Source\TeamUp41</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TeamUp41\GenericMovementComponent.h">
+      <Filter>Source\TeamUp41</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TeamUp41\TeamUp41.Build.cs">
+      <Filter>Source\TeamUp41</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TeamUp41\TeamUp41.cpp">
+      <Filter>Source\TeamUp41</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TeamUp41\TeamUp41.h">
+      <Filter>Source\TeamUp41</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TeamUp41\TeamUp41GameModeBase.cpp">
+      <Filter>Source\TeamUp41</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TeamUp41\TeamUp41GameModeBase.h">
+      <Filter>Source\TeamUp41</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TeamUp41\TUMode.cpp">
+      <Filter>Source\TeamUp41</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TeamUp41\TUMode.h">
+      <Filter>Source\TeamUp41</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,95 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef TEAMUP41_TeamUp41GameModeBase_generated_h
+#error "TeamUp41GameModeBase.generated.h already included, missing '#pragma once' in TeamUp41GameModeBase.h"
+#endif
+#define TEAMUP41_TeamUp41GameModeBase_generated_h
+
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_SPARSE_DATA
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_RPC_WRAPPERS
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesATeamUp41GameModeBase(); \
+	friend struct Z_Construct_UClass_ATeamUp41GameModeBase_Statics; \
+public: \
+	DECLARE_CLASS(ATeamUp41GameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/TeamUp41"), NO_API) \
+	DECLARE_SERIALIZER(ATeamUp41GameModeBase)
+
+
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_INCLASS \
+private: \
+	static void StaticRegisterNativesATeamUp41GameModeBase(); \
+	friend struct Z_Construct_UClass_ATeamUp41GameModeBase_Statics; \
+public: \
+	DECLARE_CLASS(ATeamUp41GameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/TeamUp41"), NO_API) \
+	DECLARE_SERIALIZER(ATeamUp41GameModeBase)
+
+
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ATeamUp41GameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATeamUp41GameModeBase) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ATeamUp41GameModeBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATeamUp41GameModeBase); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ATeamUp41GameModeBase(ATeamUp41GameModeBase&&); \
+	NO_API ATeamUp41GameModeBase(const ATeamUp41GameModeBase&); \
+public:
+
+
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API ATeamUp41GameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API ATeamUp41GameModeBase(ATeamUp41GameModeBase&&); \
+	NO_API ATeamUp41GameModeBase(const ATeamUp41GameModeBase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, ATeamUp41GameModeBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ATeamUp41GameModeBase); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ATeamUp41GameModeBase)
+
+
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_12_PROLOG
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_SPARSE_DATA \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_RPC_WRAPPERS \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_INCLASS \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_SPARSE_DATA \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+	TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> TEAMUP41_API UClass* StaticClass<class ATeamUp41GameModeBase>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID TeamUp41_Source_TeamUp41_TeamUp41GameModeBase_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

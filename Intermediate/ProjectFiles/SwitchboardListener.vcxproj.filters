@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\SwitchboardListener.Target.cs" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\ReadMe.md" />
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\SwitchboardListener.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{5ED48A7F-B770-4169-8B3A-E27D1CF2B7D9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\CpuUtilizationMonitor.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\CpuUtilizationMonitor.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardListener.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardListener.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardListenerApp.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardListenerMain.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardListenerVersion.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardMessageFuture.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardPacket.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardProtocol.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardProtocol.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SwitchboardTasks.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\SyncStatus.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{B26CE77E-6BD3-421B-A68D-ABF195F84EF3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\Windows\WindowsCpuUtilizationMonitor.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\Windows\WindowsCpuUtilizationMonitor.h">
+      <Filter>Private\Windows</Filter>
+    </ClInclude>
+    <Filter Include="Private\Windows\Resources">
+      <UniqueIdentifier>{BFECE210-C6F3-4DC9-9746-43918EF00E16}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\Windows\Resources\Icon.ico">
+      <Filter>Private\Windows\Resources</Filter>
+    </None>
+    <ClInclude Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\Windows\Resources\Resource.h">
+      <Filter>Private\Windows\Resources</Filter>
+    </ClInclude>
+    <ResourceCompile Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\Windows\Resources\Resource.rc">
+      <Filter>Private\Windows\Resources</Filter>
+    </ResourceCompile>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Private\Windows\Resources\Resource.rc2">
+      <Filter>Private\Windows\Resources</Filter>
+    </None>
+    <Filter Include="Tests">
+      <UniqueIdentifier>{BE1C4697-AA95-4FAA-8FC0-4039E8C3A106}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Tests\listener_tests.py">
+      <Filter>Tests</Filter>
+    </None>
+    <None Include="..\..\..\..\..\ue4\ue4\Engine\Source\Programs\SwitchboardListener\Tests\transfer_test.cfg">
+      <Filter>Tests</Filter>
+    </None>
+  </ItemGroup>
+</Project>
